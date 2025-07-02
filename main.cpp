@@ -6,5 +6,6 @@
 
 int main() {
     printf("Hello World\n");
+    printf("Push successfully!\n");
     return 0;
 }
